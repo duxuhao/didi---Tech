@@ -1,4 +1,4 @@
 # didi---Tech
 for didi competition
 
-ranking: 19th / 3000+
+Top 19 / 3000+
